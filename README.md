@@ -25,3 +25,6 @@ PairNext/
 - Julio Cesar Rocha de Souza
 - Guilherme Alves Ferreira Souza da Silva
 - Nadilza Nascimento Gonçalves
+
+##Objetivo
+Facilitar a conexão entre clientes e profissionais locais.
